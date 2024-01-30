@@ -46,7 +46,7 @@ I was 100% convinced that I wanted to connect my life with development.</p>
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvorobyova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvorobyova&layout=donut&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
