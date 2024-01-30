@@ -12,7 +12,7 @@ I'm Alena, junior Frontend developer from Russia, Moscow.
 **I have been interested in development for more than a year 👩🏻‍💻**
 <p>I began my 'diving' into IT area by taking various free courses and intensive courses to get a feel out the frontend-developer profession.<br>
 I was 100% convinced that I wanted to connect my life with development.</p>
-> Working in IT can be very challenging, but at the same time interesting and exciting!
+<blockquote>💡 Working in IT can be very challenging, but at the same time interesting and exciting!</blockquote>
 
 <p>At the moment I've successfully graduated online-school 'ITLogia'.</p>
 
