@@ -30,7 +30,8 @@ I was 100% convinced that I wanted to connect my life with development.</p>
   </a>
 </div>
 
+
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=alvorobyova&style=flat-square&color=FF7F50" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=alvorobyova&style=flat&color=FF7F50" alt=""/>
 </div>
 
