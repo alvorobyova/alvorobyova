@@ -13,7 +13,7 @@ I'm Alena, junior Frontend developer from Russia, Moscow.
     <img src="https://img.shields.io/badge/Telegram-dodgerblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://instagram.com/al.vorobyova">
-    <img src="https://img.shields.io/badge/Instagram-#6A5ACD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-slateblue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:alena.vorobyevaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-tomato?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
