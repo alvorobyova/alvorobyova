@@ -16,7 +16,7 @@ I was 100% convinced that I wanted to connect my life with development.</p>
 
 <p>While studying I completed a wide variety of projects: landing pages using Flexbox/Grid, various libraries and plugins, and SPA in pure JavaScript with numerous http requests. The latest projects are implemented in Angular (TypeScript).</p>
 
-### Связаться со мной 📲
+### Contact me 📲
 
 <div id="badges">
   <a href="https://t.me/alvorobyova">
