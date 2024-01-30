@@ -10,7 +10,7 @@ I'm Alena, junior Frontend developer from Russia, Moscow.
 **I have been interested in development for more than a year 👩🏻‍💻**
 <p>I began my 'diving' into IT area by taking various free courses and intensive courses to get a feel out the frontend-developer profession.<br>
 I was 100% convinced that I wanted to connect my life with development.</p>
-<blockquote>Working in IT can be very challenging, but at the same time interesting and exciting!</blockquote>
+>Working in IT can be very challenging, but at the same time interesting and exciting!
 
 <p>At the moment I've successfully graduated online-school 'ITLogia'.</p>
 
@@ -35,9 +35,9 @@ I was 100% convinced that I wanted to connect my life with development.</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
