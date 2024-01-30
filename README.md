@@ -6,11 +6,13 @@ I'm Alena, junior Frontend developer from Russia, Moscow.
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA4YjZwY3U5eDhnNmFqNWcya3V5MTVoNWVxaXJ1a2p2OWFsemlkbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"   width="150"/>
 </div>
 
+<hr>
 
+### 💁🏻‍♀️ About me :
 **I have been interested in development for more than a year 👩🏻‍💻**
 <p>I began my 'diving' into IT area by taking various free courses and intensive courses to get a feel out the frontend-developer profession.<br>
 I was 100% convinced that I wanted to connect my life with development.</p>
->Working in IT can be very challenging, but at the same time interesting and exciting!
+> Working in IT can be very challenging, but at the same time interesting and exciting!
 
 <p>At the moment I've successfully graduated online-school 'ITLogia'.</p>
 
@@ -62,6 +64,7 @@ I was 100% convinced that I wanted to connect my life with development.</p>
   </a>
 </div>
 
+<hr>
 
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=alvorobyova&style=flat&color=FF7F50" alt=""/>
