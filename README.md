@@ -41,6 +41,8 @@ I was 100% convinced that I wanted to connect my life with development.</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvorobyova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact me 📲
 
 <div id="badges">
