@@ -8,13 +8,13 @@ I'm Alena, junior Frontend developer from Russia, Moscow.
 
 
 **I have been interested in development for more than a year.**
-I began my 'diving' into IT area by taking various free courses and intensive courses to get a feel out the frontend-developer profession.<br>
-I was 100% convinced that I wanted to connect my life with development. 
+<p>I began my 'diving' into IT area by taking various free courses and intensive courses to get a feel out the frontend-developer profession.<br>
+I was 100% convinced that I wanted to connect my life with development.</p>
 <blockquote>Working in IT can be very challenging, but at the same time interesting and exciting!</blockquote>
 
-At the moment I've successfully graduated online-school 'ITLogia'.
+<p>At the moment I've successfully graduated online-school 'ITLogia'.</p>
 
-While studying I completed a wide variety of projects: landing pages using Flexbox/Grid, various libraries and plugins, and SPA in pure JavaScript with numerous http requests. The latest projects are implemented in Angular (TypeScript).
+<p>While studying I completed a wide variety of projects: landing pages using Flexbox/Grid, various libraries and plugins, and SPA in pure JavaScript with numerous http requests. The latest projects are implemented in Angular (TypeScript).</p>
 
 ### Связаться со мной 📲
 
