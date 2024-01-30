@@ -50,7 +50,7 @@ I was 100% convinced that I wanted to connect my life with development.</p>
 
 <hr>
 
-### Contact me 📲
+### 📲 Contact me :
 
 <div id="badges">
   <a href="https://t.me/alvorobyova">
