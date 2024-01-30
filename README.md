@@ -15,6 +15,7 @@ I was 100% convinced that I wanted to connect my life with development.</p>
 <p>At the moment I've successfully graduated online-school 'ITLogia'.</p>
 
 <p>While studying I completed a wide variety of projects: landing pages using Flexbox/Grid, various libraries and plugins, and SPA in pure JavaScript with numerous http requests. The latest projects are implemented in Angular (TypeScript).</p>
+<hr>
 
 ### 🛠️ Languages and Tools :
 <div>
@@ -41,7 +42,11 @@ I was 100% convinced that I wanted to connect my life with development.</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvorobyova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 
 ### Contact me 📲
 
