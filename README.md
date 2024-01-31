@@ -9,7 +9,7 @@ _**I'm Alena, junior Frontend developer from Russia, Moscow**_
 <hr>
 
 ### 💁🏻‍♀ About me :
-**I have been interested in development for more than a year**
+**I am interested in development for more than a year**
 <p>I began my 'diving' into IT area by taking various free courses and intensive courses to get a feel out the frontend-developer profession. Since then I was 100% convinced that I wanted to connect my life with development</p>
 <blockquote>💡 Working in IT can be very challenging, but at the same time interesting and exciting!</blockquote>
 
