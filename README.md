@@ -9,21 +9,20 @@ _**I'm Alena, Frontend developer from Russia, Moscow**_
 <hr>
 
 ### 💁🏻‍♀ About me :
-**I am interested in development for more than 1.5 year**
-<p>I began my 'diving' into IT area by taking various free courses and intensive courses to get a feel out the frontend-developer profession. Since then I was 100% convinced that I wanted to connect my life with development</p>
+**I am interested in frontend development for more than 1.5 year**
+<p>I began my 'diving' into IT area by taking various free courses and intensive courses to get a feel out the frontend-developer profession. Since then I was 100% convinced that I wanted to connect my life with frontend development</p>
 <blockquote>💡 Working in IT can be very challenging, but at the same time interesting and exciting!</blockquote>
 
-<p>At the moment I've successfully graduated online-school 'ITLogia'</p>
-
-<p>While studying I completed a wide variety of projects: landing pages using Flexbox/Grid, various libraries and plugins, and SPA in pure JavaScript with numerous http requests. The latest projects are implemented in Angular (TypeScript)</p>
+<p>I've successfully graduated online-school 'ITLogia' and currently have skills and work with the tools listed below</p>
 <hr>
 
 ### 💪🏻 My skills :
-— HTML, CSS coding based on design layouts from Photoshop, Figma<br>
+— HTML & CSS coding based on design layouts from Photoshop, Figma<br>
 — projects development in JavaScript and TypeScript<br>
 — projects development on the Angular framework using the Angular Material library<br>
 — basic knowledge of backend and Node.js, understanding of API principles<br>
 — basic knowledge of React, Vue.js frameworks
+<hr>
 
 ### 🛠️ Languages and Tools :
 <div>
