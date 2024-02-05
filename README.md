@@ -18,6 +18,13 @@ _**I'm Alena, Frontend developer from Russia, Moscow**_
 <p>While studying I completed a wide variety of projects: landing pages using Flexbox/Grid, various libraries and plugins, and SPA in pure JavaScript with numerous http requests. The latest projects are implemented in Angular (TypeScript)</p>
 <hr>
 
+### 💪🏻 My skills :
+- HTML, CSS coding based on design layouts from Photoshop, Figma
+- projects development in JavaScript and TypeScript
+- projects development on the Angular framework using the Angular Material library
+- basic knowledge of backend and Node.js, understanding of API principles
+- basic knowledge of React, Vue.js frameworks
+
 ### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
