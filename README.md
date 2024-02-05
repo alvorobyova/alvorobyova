@@ -19,11 +19,11 @@ _**I'm Alena, Frontend developer from Russia, Moscow**_
 <hr>
 
 ### 💪🏻 My skills :
-- HTML, CSS coding based on design layouts from Photoshop, Figma
-- projects development in JavaScript and TypeScript
-- projects development on the Angular framework using the Angular Material library
-- basic knowledge of backend and Node.js, understanding of API principles
-- basic knowledge of React, Vue.js frameworks
+— HTML, CSS coding based on design layouts from Photoshop, Figma<br>
+— projects development in JavaScript and TypeScript<br>
+— projects development on the Angular framework using the Angular Material library<br>
+— basic knowledge of backend and Node.js, understanding of API principles<br>
+— basic knowledge of React, Vue.js frameworks
 
 ### 🛠️ Languages and Tools :
 <div>
@@ -43,6 +43,7 @@ _**I'm Alena, Frontend developer from Russia, Moscow**_
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp; -->
