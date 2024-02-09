@@ -10,7 +10,7 @@ _**I'm Alena, Frontend developer from Russia, Moscow**_
 
 ### 💁🏻‍♀ About me :
 **I am interested in frontend development for more than 1.5 year**
-<p>I began my 'diving' into IT area by taking various free courses and intensive courses to get a feel out the frontend-developer profession. Since then I was 100% convinced that I wanted to connect my life with frontend development</p>
+<p>I began my 'diving' into IT area by taking various courses and intensive courses to get a feel out the frontend-developer profession. Since then I was 100% convinced that I wanted to connect my life with frontend development</p>
 <blockquote>💡 Working in IT can be very challenging, but at the same time interesting and exciting!</blockquote>
 
 <p>I've successfully graduated online-school 'ITLogia' and currently have skills and work with the tools listed below</p>
