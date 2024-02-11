@@ -18,10 +18,21 @@ _**I'm Alena, Frontend developer from Russia, Moscow**_
 
 ### 💪🏻 My skills :
 — HTML & CSS coding based on design layouts from Photoshop, Figma<br>
+— using preprocessors: SASS, LESS, Stylus<br>
+— working with NPM package manager and Gulp, Grunt, Webpack builders<br>
 — projects development in JavaScript and TypeScript<br>
-— projects development on the Angular framework using the Angular Material library<br>
-— basic knowledge of backend and Node.js, understanding of API principles<br>
-— basic knowledge of React, Vue.js frameworks
+— using libraries and plugins: Angular Material, jQuery, Ajax, Bootstrap5, etc.<br>
+— projects development with Angular<br>
+— working with the Git version control system (GitHub, GitLab, BitBucket)<br>
+— working in postman, with a database in mongoDB<br>
+— basic understanding:<br>
+・backend and Node.js and API principles<br>
+・frameworks React, Vue.js<br>
+・principles of setting up the Nginx web server<br>
+・basics of working with Docker<br>
+・writing UNIT tests<br>
+・automation of CI/CD processes<br>
+・ESLint
 <hr>
 
 ### 🛠️ Languages and Tools :
