@@ -4,7 +4,7 @@
 
 ### Hi! 👋🏻
 
-_**I'm Alena, Frontend developer from Russia, Moscow**_
+_**I'm Alena, junior Frontend developer from Russia, Moscow**_
 
 <hr>
 
