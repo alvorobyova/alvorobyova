@@ -19,21 +19,14 @@ _**I'm Alena, junior Frontend developer from Russia, Moscow**_
 
 ### 💪🏻 My skills :
 — HTML & CSS coding based on design layouts from Photoshop, Figma<br>
-— using preprocessors: SASS, LESS, Stylus<br>
-— working with NPM package manager and Gulp, Grunt, Webpack builders<br>
-— projects development in JavaScript and TypeScript<br>
-— using libraries and plugins: Angular Material, jQuery, Ajax, Bootstrap5, etc.<br>
-— projects development with Angular<br>
-— working with the Git version control system (GitHub, GitLab, BitBucket)<br>
+— using preprocessors: SASS・SCSS・LESS・Stylus<br>
+— working with NPM package manager and Gulp・Grunt・Webpack builders<br>
+— projects development in JavaScript・TypeScript・Angular<br>
+— using libraries and plugins: Angular Material・jQuery・Ajax・Bootstrap5・etc.<br>
+— working with the Git version control system: GitHub・GitLab・BitBucket<br>
 — working in postman, with a database in mongoDB<br>
-— basic understanding:<br>
-・backend and Node.js and API principles<br>
-・frameworks React, Vue.js<br>
-・principles of setting up the Nginx web server<br>
-・basics of working with Docker<br>
-・writing UNIT tests<br>
-・automation of CI/CD processes<br>
-・ESLint
+— Chrome DevTools debugging<br>
+— basic understanding:<br>backend・Node.js・API・React・Vue.js・setting up Nginx・Docker・UNIT tests ・CI/CD processes・ESLint
 <hr>
 
 ### 🛠️ Languages and Tools :
