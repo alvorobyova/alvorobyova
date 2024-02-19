@@ -26,7 +26,7 @@ _**I'm Alena, junior Frontend developer from Russia, Moscow**_
 — working with the Git version control system: GitHub・GitLab・BitBucket<br>
 — working in postman, with a database in mongoDB<br>
 — Chrome DevTools debugging<br>
-— basic understanding:<br>backend・Node.js・API・React・Vue.js・setting up Nginx・Docker・UNIT tests ・CI/CD processes・ESLint
+— basic understanding: backend・Node.js・API・React・Vue.js・setting up Nginx・Docker・UNIT tests ・CI/CD processes・ESLint
 <hr>
 
 ### 🛠️ Languages and Tools :
