@@ -9,16 +9,16 @@ _**I'm Alena, junior Frontend developer from Russia, Moscow**_
 <hr>
 
 ### 💁🏻‍♀ About me :
-**I am interested in frontend development for more than 1.5 year**
-<p>I began my 'diving' into IT area by taking various courses and intensive courses to get a feel out the frontend-developer profession. Since then I was 100% convinced that I wanted to connect my life with frontend development</p>
-<blockquote>💡 Working in IT can be very challenging, but it's about growth and interest. 
+**I am interested in frontend development for about 2 years**
+<p>Before moving to the IT, I worked in an oil & gas service company as a geophysicist accompanying the drilling of oil and gas wells on the Sakhalin island
+<blockquote>💡 Working in IT can be very challenging, but it's about permanent development. 
   I have a great desire to continue growing professionally and learning new technologies.</blockquote>
 
-<p>I've successfully graduated online-school 'ITLogia' and currently have skills and work with the tools listed below</p>
+<p>I've graduated online-school 'ITLogia' and currently have skills and work with the tools listed below</p>
 <hr>
 
 ### 💪🏻 My skills :
-— HTML & CSS coding based on design layouts from Photoshop, Figma<br>
+— HTML/PUG & CSS coding based on design layouts from Photoshop, Figma<br>
 — using preprocessors: SASS・SCSS・LESS・Stylus<br>
 — working with NPM package manager and Gulp・Grunt・Webpack builders<br>
 — projects development in JavaScript・TypeScript・Angular<br>
