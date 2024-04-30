@@ -4,20 +4,38 @@
 
 ### Hi! 👋🏻
 
-_**I'm Alena, junior Frontend developer from Russia, Moscow**_
+_**I'm Alena, junior Frontend developer from Russia, Moscow**_<br>
+I have a great desire to continue growing professionally and learning new technologies.
 
 <hr>
 
 ### 💁🏻‍♀ About me :
-**I am interested in frontend development for about 2 years**
-<p>Before moving to the IT, I worked in an oil & gas service company as a geophysicist accompanying the drilling of oil and gas wells on the Sakhalin island
-<blockquote>💡 Working in IT can be very challenging, but it's about permanent development. 
-  I have a great desire to continue growing professionally and learning new technologies.</blockquote>
+**I am interested in frontend development for about 2 years**<br>
+Before moving to the IT, I worked in an oil & gas service company as a geophysicist accompanying the drilling of oil and gas wells on the Sakhalin island<br>
 
-<p>I've graduated online-school 'ITLogia' and currently have skills and work with the tools listed below</p>
+I lead an active lifestyle 🤸🏻‍♀️<br>
+In my free time I enjoy sports (stretching, yoga, pilates) and cooking
 <hr>
 
-### 💪🏻 My skills :
+### 👩🏻‍💻 Experience:
+
+Web-developer<br>
+📍 Web studio Di-project (Moscow)<br>
+<i>Duties: </i>
+<blockquote> 
+1) Adaptive, cross-browser layout of corporate websites and online stores according to the mobile first concept<br>
+2) Using basically PUG, SCSS, Gulp and jQuery, as well as various libraries & plugins 
+</blockquote><br>
+
+Student of the course 'Frontend Developer' <br>
+📍 Online school 'ITLogia'
+<blockquote> 
+1) Completed 20+ projects using various technologies<br>
+2) I've received almost all of my theoretical knowledge and hard skills during the course
+</blockquote>
+<hr>
+
+### 💪🏻 Hard Skills :
 — HTML/PUG & CSS coding based on design layouts from Photoshop, Figma<br>
 — using preprocessors: SASS・SCSS・LESS・Stylus<br>
 — working with NPM package manager and Gulp・Grunt・Webpack builders<br>
@@ -27,6 +45,10 @@ _**I'm Alena, junior Frontend developer from Russia, Moscow**_
 — working in postman, with a database in mongoDB<br>
 — Chrome DevTools debugging<br>
 — basic understanding: backend・Node.js・API・React・Vue.js・setting up Nginx・Docker・UNIT tests ・CI/CD processes・ESLint
+<hr>
+
+### 🧠 Soft Skills :
+Sociable・attentive to details・meet deadlines・ capable of learning and development ・competent oral and written communication・ analytical thinking・open to teamwork
 <hr>
 
 ### 🛠️ Languages and Tools :
