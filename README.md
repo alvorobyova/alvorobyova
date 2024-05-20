@@ -4,13 +4,17 @@
 
 ### Hi! 👋🏻
 
-_**I'm Alena, junior Frontend developer from Russia, Moscow**_<br>
-I have a great desire to continue growing professionally and learning new technologies.
+_**I'm Alena, Frontend developer from Russia**_<br>
+— Сurrently I am a JavaScript(jQuery) website developer in Web Sudio(Moscow).<br>
+— Flexible in using plugins and libraries. I like to animate websites (without going overboard).<br>
+— I use Git to work productively with the code.<br>
+— I can understand someone else's code<br>
+
+<blockquote>I am interested in getting a high-quality result of the work of the whole team. I boldly express my thoughts and suggestions for improving the workflow</blockquote>
 
 <hr>
 
 ### 💁🏻‍♀ About me :
-**I am interested in frontend development for about 2 years**<br>
 Before moving to the IT, I worked in an oil & gas service company as a geophysicist accompanying the drilling of oil and gas wells on the Sakhalin island<br>
 
 I lead an active lifestyle 🤸🏻‍♀️<br>
