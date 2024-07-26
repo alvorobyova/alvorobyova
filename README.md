@@ -88,7 +88,7 @@ Sociable・attentive to details・meet deadlines・ capable of learning and deve
 ### 📲 Contact me :
 
 <div id="badges">
-  <a href="https://t.me/alvorobyova">
+  <a href="https://t.me/almasalimova">
     <img src="https://img.shields.io/badge/Telegram-dodgerblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:alena.vorobyevaa@gmail.com">
